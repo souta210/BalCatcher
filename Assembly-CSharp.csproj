@@ -52,6 +52,7 @@
      <Compile Include="Assets\FlipperController.cs" />
      <Compile Include="Assets\Score.cs" />
      <Compile Include="Assets\Stercontroller.cs" />
+     <Compile Include="Assets\touch.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
